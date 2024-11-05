@@ -1,16 +1,6 @@
-//
-// Created by Micae on 05/11/2024.
-//
+#ifndef EJERCICIO3_H
+#define EJERCICIO3_H
 
-#ifndef EJERCICIO_3_H
-#define EJERCICIO_3_H
+void ejecutarNotas();
 
-
-
-class ejercicio_3 {
-
-};
-
-
-
-#endif //EJERCICIO_3_H
+#endif

@@ -3,5 +3,6 @@
 
 void ejecutarNumeros();
 void ejecutarDia();
+void ejecutarNotas();
 
 #endif
