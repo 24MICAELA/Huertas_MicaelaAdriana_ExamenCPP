@@ -1,16 +1,7 @@
-//
-// Created by Micae on 05/11/2024.
-//
+#ifndef EJERCICIO4_H
+#define EJERCICIO4_H
 
-#ifndef EJERCICIO_4_H
-#define EJERCICIO_4_H
+void ejecutarPromocion();
 
+#endif
 
-
-class ejercicio_4 {
-
-};
-
-
-
-#endif //EJERCICIO_4_H

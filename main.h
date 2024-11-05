@@ -4,5 +4,6 @@
 void ejecutarNumeros();
 void ejecutarDia();
 void ejecutarNotas();
+void ejecutarPromocion();
 
 #endif
