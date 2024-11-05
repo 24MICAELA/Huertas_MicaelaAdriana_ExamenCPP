@@ -1,16 +1,6 @@
-//
-// Created by Micae on 05/11/2024.
-//
+#ifndef EJERCICIO1_H
+#define EJERCICIO1_H
 
-#ifndef EJERCICIO_1_H
-#define EJERCICIO_1_H
+void ejecutarNumeros();
 
-
-
-class ejercicio_1 {
-
-};
-
-
-
-#endif //EJERCICIO_1_H
+#endif

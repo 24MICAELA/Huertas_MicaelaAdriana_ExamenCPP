@@ -1,5 +1,8 @@
-//
-// Created by Micae on 05/11/2024.
-//
-
 #include "main.h"
+#include "../ejercicio 1/ejercicio_1.h"
+
+int main() {
+    ejecutarNumeros();
+
+    return 0;
+}
